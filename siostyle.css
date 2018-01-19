@@ -1,0 +1,442 @@
+@import url('https://rawgit.com/siolarah/Serialio-CSS/master/w3-custom.css');
+
+div.modern-title {
+	font-family: "Helvetica Neue", helvetica, arial, sans-serif!important;
+	font-size: 42px!important;
+	font-weight: bold!important;
+	text-transform: none!important;
+}
+#page-title {
+	font-family: "Helvetica Neue", helvetica, arial, sans-serif!important;
+	font-size: 42px!important;
+	font-weight: bold!important;
+	text-transform: none!important;
+}
+
+.sticky-block {
+	position: sticky;
+	display: block;
+}
+
+#ms-teaser {
+    border-color: #f2f2f2!important;
+    border-top-style: solid!important;
+    border-right-style: none!important;
+    border-bottom-style: solid!important;
+    border-left-style: none!important;
+}
+
+div.views-exposed-form {
+	margin: auto!important;
+}
+
+.horizontal-borders {
+    border-color: #f2f2f2!important;
+    border-top-style: solid!important;
+    border-right-style: none!important;
+    border-bottom-style: solid!important;
+    border-left-style: none!important;
+}
+
+.field-name-field-intro {
+    padding: 10px 20px 10px 20px;
+    border: 1px solid #C3C3C3;
+    background-color: #F2F2F2;
+    font: 12px arial, sans-serif!important;
+    color: #2D2D2D;
+}
+
+}
+h1.title {
+	font-family: "Helvetica Neue", helvetica, arial, sans-serif!important;
+	font-size: 42px!important;
+	font-weight: bold!important;
+	color: #E41B23;
+	text-transform: none!important;
+}
+blockquote {
+    color: #000000;
+    display: block;
+    background: #F3F3F3;
+    margin: auto;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding: 1px 10px 1px 10px;
+    max-width: 100%;
+}
+
+blockquote.green {
+    background: #CEFCD9;
+}
+blockquote.red {
+    background: #FDD8CD;
+}
+blockquote.blue {
+    background: #CDEDFD;
+}
+body {
+    background: #ffffff;
+    font-family: "Helvetica Neue", helvetica, arial, sans-serif!important;
+    font-size: 14px;
+    line-height: 1.45;
+    color: #333333;
+}
+hr {
+    margin: 1.5em 0;
+    border-top: 1px solid #bdc3c7;
+    border-bottom: 0;
+}
+.blockA {
+    padding: 15px 15px 15px 15px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 15px 15px 15px 15px;
+    max-width: 95%;
+}
+/* Headers */
+h1 {
+    font-size: 28px;
+    padding-top: 25px;
+}
+h2 {
+    font-size: 22px;
+    padding-top: 15px;
+}
+h3 {
+    font-size: 18px;
+    padding-top: 10px;
+}
+h4 {
+    font-size: 16px;
+    padding-top: 10px;
+}
+h5 {
+    font-size: 14px;
+    padding-top: 10px;
+}
+h6 {
+    font-size: 12.5px;
+    padding-top: 10px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Helvetica Neue", helvetica, arial, verdana, sans-serif!important;
+    font-weight: bold;
+}
+/* Paragraph */
+body p {
+    font-size: 14px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-bottom" 15px;
+}
+small,
+.small {
+    font-size: 0.75em;
+    color: #3C3C3C;
+}
+.text-muted {
+    color: #5A5A5A;
+}
+
+.text-primary {
+    color: #333333;
+}
+.text-warning {
+    color: orange;
+}
+.text-danger {
+    color: red;
+}
+.text-success {
+    color: #0DB738;
+}
+.text-info {
+    color: #075CDB;
+}
+.center {
+    text-align: center;
+}
+
+
+caption {
+    font-weight: bold;
+    padding: 1em;
+    border: 1px solid #bdc3c7;
+    border-bottom: 0;
+}
+#mainbody {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+/* Links */
+a {
+    background-color: transparent;
+    color: #2E67F7;
+    -webkit-text-decoration-skip: objects
+}
+a[href]:not([class]) {
+  color: #2E67F7;
+}
+a:link {
+    color: #2E67F7;
+}
+a:visited {
+    color: #053CC5;
+}
+a:hover {
+    color: red;
+    outline-width: 0
+}
+a:active {
+    color: #8D0E0E;
+    outline-width: 0
+}
+span.a {
+    position: absolute;
+}
+
+/* Code */
+code.inline {
+    display: inline-block!important;
+    padding: 3px 3px 3px 3px;
+}
+code.block {
+    display: block!important;
+    border: 1px solid #999!important;
+    padding: 15px 15px 15px 15px;
+    max-width: 100%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.code {
+    display: block!important;
+    padding: 10px 10px 10px 10px;
+}
+pre code{
+    background-color: #eee!important;
+    font-family:Lucida Console;
+    border: 1px solid #999!important;
+    display: block!important;
+    padding: 15px 15px 15px 15px;
+    white-space: pre-wrap!important;
+    line-height: 2em!important;
+}
+pre,
+samp,
+code,
+cmd,
+kbd {
+    font-family:Lucida Console!important;
+    letter-spacing: 1px!important;
+    word-spacing: 4px!important;
+    background-color: #eee;
+    border: 1px solid #999;
+    padding: 2px 2px 2px 2px;
+}
+cmd,
+.cmd {
+    display: inline-block;
+    background-color: #eee;
+    border: 1px solid #999;
+}	
+cmd.block {
+    display: block!important;
+    background-color: #0F0F0F!important;
+    border: 2px solid #D2D2D2!important;
+    color: #D2D2D2;
+    padding: 15px 15px 15px 15px;
+    max-width: 95%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+kbd.sc {
+  background-color: #E6E6E6;
+  border-top: 3px solid #aaa;
+  border-left: 3px solid #999;
+  border-right: 3px solid #333;
+  border-bottom: 4px solid #222;
+  border-radius: 4px;
+  color: #383838;
+  display: inline-block;
+  font-size: 1em;
+  line-height: 100%;
+  margin: 0 .1em;
+  padding: .2em 0.5em;
+   
+}
+.nospace {
+    display: block;
+}
+
+/* Lists */
+/*ul,
+ol {
+    margin: 1em 1em 2em 2em;
+    padding-bottom: 20px;
+    line-height: 1.5;
+}
+li {
+    line-height: 1.5;
+}
+*/
+ul.unstyled,
+ul.inline {
+    margin-left: 0;
+    padding-left: 0;
+}
+ul.inline li {
+    margin-right: 1em;
+    display: inline-block;
+}
+ul.inline li.right {
+    margin-left: 1em;
+}
+ul.inline li {
+    margin-right: 1em;
+    display: inline-block;
+}
+ul.inline li.right {
+    margin-left: 1em;
+}
+ul.c {
+    list-style-type: circle!important;
+    list-style-position: inside!important;
+}
+ul.d {
+    list-style-type: disc!important;
+    list-style-position: inside!important;
+}
+ol.a1 {
+    list-style-type: lower-alpha!important;
+    list-style-position: inside!important;
+}
+ol.a2 {
+    list-style-type: upper-alpha!important;
+    list-style-position: inside!important;
+}
+ol.d1 {
+    list-style-type: decimal!important;
+    list-style-position: inside!important;
+}
+ol.d2 {
+    list-style-type: decimal-leading-zero!important;
+    list-style-position: inside!important;
+}
+ol.r1 {
+    list-style-type: lower-roman!important;
+    list-style-position: inside!important;
+}
+ol.r2 {
+    list-style-type: upper-roman!important;
+    list-style-position: inside!important;
+}
+/* 
+TABLES
+*/
+
+th,
+.table th {
+    padding: 1em;
+    line-height: 1.45;
+    font-weight: bold;
+    text-align: center;
+    background-color: #E7E7E7;
+    border: 1px solid #CCCCCC;
+}
+td,
+.table td,
+.table td {
+    padding: 1em;
+    line-height: 1.45;
+    vertical-align: middle;
+    border: 1px solid #CCCCCC;
+}
+table,
+.table {
+    padding: 15px 15px 15px 15px!important;
+    margin-top: 10px!important;
+    margin-bottom: 10px!important;
+    border: 1px solid #CCCCCC;
+    text-align: center;
+    background: #ffffff;
+    table-layout: fixed;
+    width: auto;
+    max-midth: 75%;
+}
+th,
+td,
+thead,
+tbody {
+    padding: 1em!important;
+    vertical-align: middle!important;
+    text-align: center;
+    line-height: 1.5;
+}
+th,
+.table th,
+.table th {
+    padding: 1em!important;
+    line-height: 1.5;
+    text-align: center;
+    font-weight: bold;
+}
+table caption {
+    font-weight: lighter;
+    padding: 1em;
+    border-bottom: 1px solid #E7E7E7;
+}
+caption {
+    font-weight: lighter;
+    padding: 1em;
+    border: 1px solid #bdc3c7;
+    border-bottom: 0;
+}
+
+/* Definition */
+dfn {
+    text-decoration: underline!important;
+    text-decoration-style: dotted!important;
+    display: inline-block;
+    padding: 2px 2px 2px 2px;
+    font-style: normal;
+    color: #000;
+}
+dl {
+    display: block;
+    margin: 2em 2em 2em 2em!important;
+    background-color: #F5F5F5;
+    border-left: 2px solid red;
+    padding: 15px 15px 15px 15px;
+}
+dd {
+    font-size: 12px;
+    font-weight: lighter!important;
+    padding: 5px 5px 5px 5px;
+}
+dt {
+    font-size: 14px;
+    font-weight: bolder;
+    padding: 5px 5px 5px 5px;
+}
+
+/* Mark */
+mark {
+    background: #ff0;
+    color: #000;
+    display: inline-block;
+    padding: 5px 5px 5px 5px;
+}
+
+/* Section */
+.section {
+    padding: 35px 5px 35px 5px;
+}
