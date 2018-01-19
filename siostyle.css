@@ -42,8 +42,9 @@ div.views-exposed-form {
     padding: 10px 20px 10px 20px;
     border: 1px solid #C3C3C3;
     background-color: #F2F2F2;
-    font: 12px arial, sans-serif!important;
+    font: 11px arial, sans-serif!important;
     color: #2D2D2D;
+    line-height: 1px;
 }
 
 }
@@ -75,6 +76,7 @@ blockquote.blue {
     background: #CDEDFD;
 }
 body {
+    margin-top:20px;
     background: #ffffff;
     font-family: "Helvetica Neue", helvetica, arial, sans-serif!important;
     font-size: 14px;
