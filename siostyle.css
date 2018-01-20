@@ -39,12 +39,12 @@ div.views-exposed-form {
 }
 
 .field-name-field-intro {
-    padding: 10px 20px 10px 20px;
+    padding: 20px 20px 20px 20px;
     border: 1px solid #C3C3C3;
     background-color: #F2F2F2;
-    font: 12px arial, sans-serif!important;
+    font: 13px arial, sans-serif!important;
     color: #2D2D2D;
-    line-height: 1px;
+    line-height: 1.2;
     margin-bottom: 20px;
 }
 
