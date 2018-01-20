@@ -42,7 +42,7 @@ div.views-exposed-form {
     padding: 10px 20px 10px 20px;
     border: 1px solid #C3C3C3;
     background-color: #F2F2F2;
-    font: 11px arial, sans-serif!important;
+    font: 12px arial, sans-serif!important;
     color: #2D2D2D;
     line-height: 1px;
 }
@@ -136,7 +136,8 @@ body p {
     font-size: 14px;
     margin-bottom: 15px;
     margin-top: 15px;
-    padding-bottom" 15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
 }
 small,
 .small {
