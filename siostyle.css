@@ -78,11 +78,11 @@ blockquote.blue {
 }
 body {
     /* margin-top:20px; */
-    background: #ffffff;
-    font-family: "Helvetica Neue", helvetica, arial, sans-serif!important;
-    font-size: 14px;
-    line-height: 1.45;
-    color: #333333;
+   /* background: #ffffff; */
+   /* font-family: "Helvetica Neue", helvetica, arial, sans-serif!important; */
+    /* font-size: 14px; */
+   /* line-height: 1.45; */
+   /* color: #333333; */
 }
 hr {
     margin: 1.5em 0;
