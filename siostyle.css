@@ -61,7 +61,7 @@ h1.title {
 	font-weight: bold!important;
 	color: #E41B23;
 	text-transform: none!important;
-}
+/* }
 blockquote {
     color: #000000;
     display: block;
@@ -71,7 +71,7 @@ blockquote {
     margin-bottom: 2px;
     padding: 1px 10px 1px 10px;
     max-width: 100%;
-}
+} */
 
 blockquote.green {
     background: #CEFCD9;
@@ -154,21 +154,6 @@ small,
     color: #5A5A5A;
 }
 
-.text-primary {
-    color: #333333;
-}
-.text-warning {
-    color: orange;
-}
-.text-danger {
-    color: red;
-}
-.text-success {
-    color: #0DB738;
-}
-.text-info {
-    color: #075CDB;
-}
 .center {
     text-align: center;
 }
