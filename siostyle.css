@@ -7,10 +7,10 @@ div.modern-title {
 	text-transform: none!important;
 }
 
-/*img.w3-image {
+img.scrnshot {
 	width: 100%;
-	max-width: 500px;
-} */
+	max-width: 400px;
+} 
 
 #page-title {
 	font-family: "Helvetica Neue", helvetica, arial, sans-serif!important;
