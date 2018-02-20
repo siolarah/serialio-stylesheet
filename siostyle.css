@@ -7,7 +7,7 @@ div.modern-title {
 	text-transform: none!important;
 }
 
-img.scrnshot {
+img.w3-image, img.scrnshot {
 	width: 100%;
 	max-width: 400px;
 } 
@@ -73,15 +73,7 @@ blockquote {
     max-width: 100%;
 } */
 
-blockquote.green {
-    background: #CEFCD9;
-}
-blockquote.red {
-    background: #FDD8CD;
-}
-blockquote.blue {
-    background: #CDEDFD;
-}
+
 body {
     /* margin-top:20px; */
    /* background: #ffffff; */
@@ -95,38 +87,30 @@ hr {
     border-top: 1px solid #bdc3c7;
     border-bottom: 0;
 }
-.blockA {
-    padding: 15px 15px 15px 15px;
-    display: block;
-    margin: auto;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    padding: 15px 15px 15px 15px;
-    max-width: 95%;
-}
+
 /* Headers */
 h1 {
-    font-size: 28px;
-    padding-top: 25px;
+    font-size: 22px;
+    padding-top: 20px;
 }
 h2 {
-    font-size: 22px;
-    padding-top: 15px;
+    font-size: 18px;
+    padding-top: 12px;
 }
 h3 {
-    font-size: 18px;
-    padding-top: 10px;
-}
-h4 {
     font-size: 16px;
     padding-top: 10px;
 }
-h5 {
+h4 {
     font-size: 14px;
     padding-top: 10px;
 }
+h5 {
+    font-size: 12px;
+    padding-top: 10px;
+}
 h6 {
-    font-size: 12.5px;
+    font-size: 11px;
     padding-top: 10px;
 }
 h1,
@@ -337,7 +321,7 @@ ol.r2 {
 /* 
 TABLES
 */
-
+/*
 th,
 .table th {
     padding: 1em;
@@ -395,7 +379,7 @@ caption {
     border: 1px solid #bdc3c7;
     border-bottom: 0;
 }
-
+*/
 /* Definition */
 dfn {
     text-decoration: underline!important;
