@@ -6,6 +6,12 @@ div.modern-title {
 	font-weight: bold!important;
 	text-transform: none!important;
 }
+
+img.w3-image {
+	width: 100%;
+	max-width: 500px;
+}
+
 #page-title {
 	font-family: "Helvetica Neue", helvetica, arial, sans-serif!important;
 	font-size: 42px!important;
