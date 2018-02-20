@@ -179,7 +179,7 @@ caption {
     padding-bottom: 15px;
 }
 /* Links */
-a {
+/* a {
     background-color: transparent;
     color: #2E67F7;
     -webkit-text-decoration-skip: objects
@@ -203,7 +203,7 @@ a:active {
 }
 span.a {
     position: absolute;
-}
+} /* 
 
 /* Code */
 code.inline {
