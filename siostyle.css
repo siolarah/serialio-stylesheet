@@ -135,7 +135,7 @@ h6 {
 /* Paragraph */
 body p {
     font-size: 14px;
-    margin-bottom: 15px;
+    /* margin-bottom: 15px; */
     margin-top: 15px;
     padding-top: 15px;
 }
