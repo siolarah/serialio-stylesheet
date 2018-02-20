@@ -189,11 +189,11 @@ caption {
     background-color: transparent;
     color: #2E67F7;
     -webkit-text-decoration-skip: objects
-} */
+} 
 a[href]:not([class]) {
   color: #2E67F7;
 }
-/*
+
 a:link {
     color: #2E67F7;
 }
