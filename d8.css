@@ -1,0 +1,32 @@
+
+img.scrnshot {
+	display: block;
+}
+
+code,
+kbd,
+samp
+{
+    font-family: monospace,monospace;font-size: 1em;
+}
+
+div.padding-1 {
+	padding: 10px;
+}
+
+div.padding-2 {
+	padding: 20px;
+}
+
+.cell-padding {
+	padding: 10px;
+}
+
+.cell-margin {
+	margin: 5px;
+}
+
+.cell-auto {
+	margin: auto;
+	padding: auto;
+}
