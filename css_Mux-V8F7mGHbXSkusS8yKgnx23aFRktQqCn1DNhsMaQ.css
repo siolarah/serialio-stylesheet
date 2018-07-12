@@ -6884,7 +6884,7 @@ table.hover:not(.unstriped) tr:nth-of-type(even):hover {
 
 @
 
-media print,screen and (min-width:48.0625em) {
+@media print,screen and (min-width:48.0625em) {
   .medium-mb-0 {
     margin-bottom: 0!important;
   }
