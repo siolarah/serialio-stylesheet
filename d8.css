@@ -1,5 +1,5 @@
 
-img.scrnshot {
+img.screenshot {
 	display: block;
 }
 
@@ -16,17 +16,4 @@ div.padding-1 {
 
 div.padding-2 {
 	padding: 20px;
-}
-
-.cell-padding {
-	padding: 10px;
-}
-
-.cell-margin {
-	margin: 5px;
-}
-
-.cell-auto {
-	margin: auto;
-	padding: auto;
 }
