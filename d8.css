@@ -1,5 +1,5 @@
 
-img.screenshot {
+.screenshot {
 	display: block;
 }
 
@@ -10,10 +10,39 @@ samp
     font-family: monospace,monospace;font-size: 1em;
 }
 
-div.padding-1 {
+.padding-5 {
+	padding: 5px;
+}
+
+.padding-10 {
 	padding: 10px;
 }
 
-div.padding-2 {
-	padding: 20px;
+.section {
+	margin-top: 10px;
 }
+
+.meta {
+	display: none;
+}
+
+
+
+/* for future use */
+/*
+.story {
+
+}
+
+.actions {
+
+}
+
+.relatedList {
+
+}
+
+.actions {
+
+}
+*/
